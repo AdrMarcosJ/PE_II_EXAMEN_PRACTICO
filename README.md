@@ -9,3 +9,6 @@ Mejora 1: validarLogin.jsp procesa el formulario de login: valida credenciales v
 Mejoa 2: registrarUsuario.jsp procesa el formulario de registro: valida los datos (username, password, confirmPassword, email), aplica reglas reforzadas, crea el usuario mediante la capa de negocio (ClsNLogin) y redirige con mensajes de éxito o error.
 
 <img width="963" height="978" alt="image" src="https://github.com/user-attachments/assets/aa0858ba-676f-479a-a443-78170de16afe" />
+
+URL DEL REPOSITORIO: 
+https://github.com/AdrMarcosJ/PE_II_EXAMEN_PRACTICO
